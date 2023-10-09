@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Marketing Sample</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to Our Digital Marketing Campaign</h1>
+        </header>
+        <main>
+            <section>
+                <h2>About Us</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget nunc vitae elit sollicitudin scelerisque. Fusce nec tortor ut arcu dapibus condimentum.</p>
+            </section>
+            <section>
+                <h2>Our Services</h2>
+                <ul>
+                    <li>Search Engine Optimization (SEO)</li>
+                    <li>Email Marketing</li>
+                    <li>Social Media Advertising</li>
+                    <li>Content Marketing</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Contact Us</h2>
+                <p>If you have any questions or need assistance, feel free to <a href="mailto:contact@example.com">contact us</a>.</p>
+            </section>
+        </main>
+        <footer>
+            <p>&copy; 2023 Digital Marketing Company</p>
+        </footer>
+    </div>
+</body>
+</html>
